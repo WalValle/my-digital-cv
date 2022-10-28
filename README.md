@@ -3,7 +3,7 @@
 - **Edad:** 33
 - **Telefono:** 1157974424
 - **Direccion:** Beruti 253
-[Linkedin](https://www.linkedin.com/in/walter-valle-b3a99b83/)
+- [Linkedin](https://www.linkedin.com/in/walter-valle-b3a99b83/)
 
 # ***Formacion Academica***
 
@@ -31,4 +31,8 @@
   5. Inspeccionar las obras en curso dentro del edificio y asegurar el cumplimiento del pliego interno.
  
  # ***Informatica***
+ 
+ - **Office:** Excel, Word, Outlook nivel intermedio.
+ - **Autocad:** Basico
+ - **Sap:** Modulo producción, reserva de materiales, generación de O. de compra, solicitud de pedidos, avisos de paradas de equipos, gestión de stocks, ordenes de trabajo.
  
