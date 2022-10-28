@@ -1,11 +1,9 @@
-# ***My-digital-cv***
-
 #### ***Walter Miguel Valle***
 
 - **Edad:** 33
 - **Telefono:** 1157974424
 - **Direccion:** Beruti 253
-- **[Linkedin] {https://www.linkedin.com/in/walter-valle-b3a99b83/}
+- [Linkedin] {https://www.linkedin.com/in/walter-valle-b3a99b83/}
 
 # ***Formacion Academica***
 
